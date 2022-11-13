@@ -1,0 +1,7 @@
+<suite name="Testing">
+    <test name="BershkaTest8">
+        <classes>
+            <class name="bershka.test.BerskaTest8"/>
+        </classes>
+    </test>
+</suite>
